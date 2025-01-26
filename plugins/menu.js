@@ -8,7 +8,7 @@ cmd({
     pattern: "menu",
     desc: "menu the bot",
     category: "menu",
-    react: "⚡",
+    react: "💙",
     filename: __filename
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
@@ -45,7 +45,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/WHBf8bP/temp-image.jpg` },
+                image: { url: `https://qu.ax/zjSsa.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -63,7 +63,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/JawadYTX/KHAN-DATA/raw/refs/heads/main/autovoice/repo.m4a' },
+            audio: { url: 'https://github.com/ANSAR-PANHWAR/PANHWAR-DATA/raw/refs/heads/main/autovoice/panhwar.m4a' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
@@ -115,7 +115,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/2sMw8Dy/shaban-sobx-md.jpg` },
+                image: { url: `https://qu.ax/GBSxz.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -190,7 +190,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/yP33p0S/shaban-sobx-md.jpg` },
+                image: { url: `https://qu.ax/ttRck.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -246,7 +246,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/z7pj2mx/shaban-sobx-md.jpg` },
+                image: { url: `https://qu.ax/sSuRH.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -302,7 +302,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/6rNTXb2/shaban-sobx-md.jpg` },
+                image: { url: `https://qu.ax/ckrBb.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -353,7 +353,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/yP33p0S/shaban-sobx-md.jpg` },
+                image: { url: `https://qu.ax/hGpcx.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -412,7 +412,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/z7pj2mx/shaban-sobx-md.jpg` },
+                image: { url: `https://qu.ax/ffEhL.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -461,7 +461,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/2sMw8Dy/shaban-sobx-md.jpg` },
+                image: { url: `https://qu.ax/NoLki.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -514,7 +514,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/6rNTXb2/shaban-sobx-md.jpg` },
+                image: { url: `https://qu.ax/zyzHa.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -564,7 +564,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/WHBf8bP/temp-image.jpg` },
+                image: { url: `https://qu.ax/mkKhq.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],

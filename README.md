@@ -1,10 +1,10 @@
 ---
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines=PANHWAR-MD-V4.0" alt="Typing SVG" /></a>
-  </p>  
-  
----  
 
-> **`Updated To` The Version 4.0**
+<a><img src='https://qu.ax/zjSsa.jpg'/></a>
+
+---
+    
+> **`Updated To` The Version 2.0**
 ---
 
 ```
@@ -12,7 +12,7 @@ PANHWAR-MD BY ANSAR-PANHWAR 👑
 ```
 ---
 
-<a><img src='https://i.ibb.co/WHBf8bP/temp-image.jpg'/></a>
+<a><img src='https://qu.ax/usgBJ.jpg'/></a>
 
 ---
 
@@ -47,3 +47,23 @@ PANHWAR-MD BY ANSAR-PANHWAR 👑
 
 <p align="center">
 <a href='https://dashboard.heroku.com/new-app?template=https://github.com/ANSAR-PANHWAR/PANHWAR-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+
+
+---
+
+<a><img src='https://qu.ax/zjSsa.jpg'/></a>
+
+
+---
+
+
+
+
+---
+
+
+<a><img src='https://qu.ax/usgBJ.jpg'/></a>
+
+
+
+---
